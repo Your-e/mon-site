@@ -1,0 +1,31 @@
+h1 {
+    color:rgb(255, 0, 0);
+    text-align: center;
+    border-radius: 100px;
+    background-color: rgb(154, 230, 255);
+}
+.cat {
+    border-radius: 300px;
+    width: 300px;
+}
+.body {
+    text-align: center;
+    background-color: rgb(70, 70, 70);
+}
+.link {
+    color:rgb(200, 0, 0)
+}
+button {
+    border-radius: 10px;
+    background-color: seagreen;
+}
+.page1 {
+    text-align: center;
+    background-color: rgb(161, 152, 152);
+}
+.home {
+    background-color: brown;
+}
+.mem {
+    width: 100px;
+}
