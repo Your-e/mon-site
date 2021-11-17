@@ -18,3 +18,9 @@ button {
     background-color: rgb(255, 0, 0);
     padding: 10px;
 }
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
